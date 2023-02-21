@@ -1,0 +1,5 @@
+python-dotenv
+pendulum
+sqlalchemy==1.4.46
+psycopg2-binary
+aiogram
